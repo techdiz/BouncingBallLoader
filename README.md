@@ -14,7 +14,7 @@ A simple and stylish loader with bouncing balls created using HTML and CSS. Perf
 
 ![Bouncing Ball Loader Demo](demo.gif)
 
-You can check out a live demo [here](#).
+You can check out a live demo [here](https://techdiz.github.io/BouncingBallLoader/).
 
 ## Installation
 
